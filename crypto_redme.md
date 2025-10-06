@@ -12,7 +12,7 @@ Your task is to **decrypt the message** and find the **flag**.
 ## 📂 Provided Files
 
 - [encrypt.py](encrypt.py)
-- [cipher.txt](cipher.txt)
+- [cipher.txt](cipher.text)
 
 ---
 
